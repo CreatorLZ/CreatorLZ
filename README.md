@@ -4,21 +4,21 @@
 
 <p align="left"> <a href="https://twitter.com/isaaccanyim" target="blank"><img src="https://img.shields.io/twitter/follow/isaaccanyim?logo=twitter&style=for-the-badge" alt="isaaccanyim" /></a> </p>
 
-- 🔭 I’m currently working on [Ideadundr. A platform where inventors can showcase their inventions using AR technology](ideafundr-seven.vercel.app)
+- 🔭 I’m currently working on [Taskwise: A smart AI powered Task Management apliication](https://github.com/CreatorLZ/taskwise)
 
 - 🌱 I’m currently learning **Typescript, Node.js**
 
-- 👯 I’m looking to collaborate on [ideafundr](ideafundr-seven.vercel.app)
+- 👯 I’m looking to collaborate on [Taskwise: A smart AI powered Task Management apliication](https://github.com/CreatorLZ/taskwise)
 
 - 👨‍💻 All of my cool projects are available at [isaacanyim-iota.vercel.app](isaacanyim-iota.vercel.app)
 
-- 💬 Ask me about **React, Next.js, JavaScript**
+- 💬 Ask me about **React, Next.js, JavaScript ,Typescript, Node.js**
 
-- 📫 How to reach me **isaachimarokeanyim@gmail.com**
+- 📫 How to reach me **isaacchimarokeanyim@gmail.com**
 
 - 📄 Know about my experiences [isaacanyim-iota.vercel.app](isaacanyim-iota.vercel.app)
 
-- ⚡ Fun fact **I generally prefer reading to watching movies. Sigh😌**
+- ⚡ Fun fact **I read a LOT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
