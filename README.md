@@ -1,104 +1,62 @@
-# <div align="center">👨‍💻 Isaac Anyim</div>
-
+# <div align="center">Isaac Anyim</div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-2D333B?style=for-the-badge" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/-Remote-4CAF50?style=for-the-badge" alt="Remote" />
 </div>
-
 <div align="center">
-  <p>Crafting intelligent, scalable solutions that push the boundaries of what's possible 🚀</p>
+  <p>Fullstack developer. I deliver scalable solutions to meet real world needs🚀</p>
   
-  [![Twitter Follow](https://img.shields.io/twitter/follow/isaaccanyim?logo=twitter&style=social)](https://twitter.com/isaaccanyim)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/isaac-anyim)
+  [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Fathe__r)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-anyim-76221b269)
 </div>
 
-## 🎯 Current Focus
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### 🔭 Current Project
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-FF6B6B?style=flat&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat&logo=react&logoColor=black)
 
-**[Taskwise](https://github.com/CreatorLZ/taskwise)** - Revolutionizing task management with AI
-- 🤖 AI-powered task prioritization
-- 📊 Smart productivity analytics
-- 🔄 Seamless workflow integration
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
-</td>
-<td width="50%">
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### 🌱 Learning & Growth
+### Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-- Advanced **TypeScript** patterns and best practices
-- Scalable **Node.js** architecture
-- Microservices and distributed systems
-- Cloud-native development
+### Authentication & Security
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/-Firebase_Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
+![OAuth](https://img.shields.io/badge/-OAuth-4285F4?style=flat&logo=oauth&logoColor=white)
 
-</td>
-</tr>
-</table>
+### AI & APIs
+![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-## 💼 Professional Journey
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-
-</td>
-<td width="50%">
-
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=creatorlz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
-
-</td>
-</tr>
-</table>
-
-## 🤝 Let's Connect
-
-<table>
-<tr>
-<td width="50%">
-
-### 📫 Contact
-- 📧 [isaacchimarokeanyim@gmail.com](mailto:isaacchimarokeanyim@gmail.com)
-- 🌐 [Portfolio](https://isaacanyim-iota.vercel.app)
-- 💼 [LinkedIn](https://linkedin.com/in/isaac-anyim)
-- 🐦 [Twitter](https://twitter.com/isaaccanyim)
-- 📱 [Facebook](https://fb.com/isaac-anyim)
-
-</td>
-<td width="50%">
-
-### 💡 Highlights
-- 🎯 Open to collaboration on innovative projects
-- 💬 Ask me about React, Next.js, TypeScript
-- 📚 Avid reader and continuous learner
-- 🌍 Working remotely, available worldwide
-
-</td>
-</tr>
-</table>
+### Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
 <div align="center">
-  <i>Let's build something amazing together! 🚀</i>
+  <i>Open to collaborations. Let's build something amazing together! 🚀</i>
 </div>
-
